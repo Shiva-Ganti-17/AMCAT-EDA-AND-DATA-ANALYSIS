@@ -17,7 +17,6 @@ candidate. Below mentioned table contains the details for the original dataset
 ### PDFs, Histograms, Boxplots, Countplots, etc.
   outliers in each numerical column.
 - the frequency distribution of each categorical variable/column.
--
 
 ## Step 3: Bivariate Analysis
 ### Relationships Between Numerical Columns
@@ -30,9 +29,9 @@ candidate. Below mentioned table contains the details for the original dataset
 
 ## Step 4: Research Questions
 1. **Times of India Article Analysis**
-   - Test the claim regarding earnings after Computer Science Engineering.
+   - Tested the claim regarding earnings after Computer Science Engineering.
 2. **Gender and Specialization Relationship**
-   - Investigate if the preference of specialization depends on gender.
+   - Investigated if the preference of specialization depends on gender.
 ## Conclusion
 The claim that fresh graduates in specific job roles can earn up to 2.5-3 lakhs is not supported by the data. The average salary in the dataset exceeds this claimed range.
 The simulation under the null hypothesis suggests that the observed average salary is significantly higher than what would be expected by chance under the claimed salary range
